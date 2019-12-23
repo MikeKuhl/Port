@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name":"Michael Milsap",
+    "occupation":"Electronics Technician 3rd Class in the US Navy",
+    "description":"I'm a Javascript developer who speacilizes in ReactJS and helped in a friends personal project http://playtransmogrify.com/",
+    "image":"profilepic.jpg",
+    "bio":"I'm currently active duty in the US Navy and I'm looking for a new career.",
+    "contactmessage":"If you would like to get in contact with me please refer to the information below..",
+    "email": "milsapmichael@gmail.com",
+    "phone": "redacted",
+    "address":{
+      "street":"redacted",
+      "city":"Seattle",
+      "state":"Washingtion",
+      "zip": "redacted"
+    },
+    "website": "http://Mikekuhl.dev",
+    "resumedownload":"http://Mikekuhl.dev",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/_MikeKuhl",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/michael-milsap-799787a7/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/kuhlbrz",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/mikekuhl",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Where I've Been",
+    "education":[
+      {
+        "school":"US Navy",
+        "degree":"Eletronics Technican base school",
+        "graduated":"October 2016",
+        "description":"I learned basic troubleshooting for my US Navy Career and various eletrical engineering,computing and radar concepts."
+      }
+    ],
+    "work":[
+      {
+        "company":"US Navy",
+        "title":"Eletronic Technician 3rd Class",
+        "years":"December 2015 - Present",
+        "description":"Supervisor of US Navy radar and navigation systems. I specialize in TACAN,SPS-67,SPS-73 and IFF Radar. I'm the lead technician for the navys integrated bridge system which is responsible for overall control and navigation of navy warships."
+      }
+   
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"redacted",
+        "category":"redacted",
+        "image":"redacted",
+        "url":"redacted"
+      },
+      {
+        "title":"redacted",
+        "category":"redacted",
+        "image":"redacted",
+        "url":"redactedm"
+      },
+      {
+        "title":"redacted",
+        "category":"redacted",
+        "image":"redacted",
+        "url":"redactedm"
+      },
+      {
+        "title":"redacted",
+        "category":"redacted",
+        "image":"redacted",
+        "url":"redactedm"
+      },
+      {
+        "title":"redacted",
+        "category":"redacted",
+        "image":"redacted",
+        "url":"redacted"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"#He is the shit",
+        "user":"Bill Gates"
+      },
+      {
+        "text":"That Michael Milsap must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Sboj"
+      }
+    ]
+  }
+}
